@@ -1,19 +1,20 @@
-# METU IEEE Student Branch
+# METU IEEE Student Branch ⚡
 
-Welcome to the official technical and organizational hub of the METU IEEE Student Branch. We unite passionate engineers across hardware, software, power systems, and robotics to build real-world systems.
+Welcome to the official technical and organizational hub of the METU IEEE Student Branch. We unite passionate engineers across communications, software, power systems, and robotics to build real-world systems.
 
 ---
 
-## Our Societies
+## 🌐 Our Sub-Societies & Chapters
 METU IEEE operates across multiple technical domains. Explore our active sub-branches and engineering hubs:
 
 * **[Computer Society (CS):](https://github.com/metu-ieee)** Focuses on software engineering, production-grade project repositories, and developer infrastructure.
-* **[Robotics and Automation Society (RAS):](https://github.com/metu-ieee)** *(Link or description for RAS)*
-* **[Power & Energy Society (PES):](https://github.com/metu-ieee)** *(Link or description for PES)*
-* **[Communications Society (ComSoc):](https://github.com/metu-ieee)** *(Link or description for ComSoc)*
+* **[Communications Society (ComSoc):](https://github.com/metu-ieee)** Focuses on networking, communication protocols, and telecommunications tech.
+* **[Robotics and Automation Society (RAS):](https://github.com/metu-ieee)** Focuses on embedded systems, hardware automation, and robotics.
+* **[Power & Energy Society (PES):](https://github.com/metu-ieee)** Focuses on sustainable energy systems and power engineering.
+
 ---
 
-## Branch-Wide Engineering Infrastructure
+## 🛠️ Branch-Wide Engineering Infrastructure
 Managed by the Computer Society technical core, these standard tools govern our open-source and project repositories:
 
 * **[Global Control Plane (.github):](https://github.com/metu-ieee/.github)** Organization-wide governance, issue templates, and safety standards.
@@ -21,6 +22,6 @@ Managed by the Computer Society technical core, these standard tools govern our 
 
 ---
 
-## Official Institutional Links
+## 🏛️ Official Institutional Links
 Looking for administrative forms, general branch membership info, or institutional event registrations?
-* Visit our official university portal at [metu.edu.tr](https://www.metu.edu.tr) *(Insert official branch link here)*.
+* Visit our official university portal at [metu.edu.tr](https://www.metu.edu.tr).
